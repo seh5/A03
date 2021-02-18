@@ -80,9 +80,9 @@ References:
 
 **Pull** - "Copies" changes from one file onto another. 
 
-**Remote** - non-local version of a file such as those on Github.
+**Remote** - Non-local version of a file such as those stored on Github.
 
-**Repository** - remote file folder that also contains the project's history.
+**Repository** - Remote file folder that also contains the project's history.
 
 References:
 - W3Schools https://www.w3schools.com/whatis/whatis_github.asp
