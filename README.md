@@ -60,15 +60,15 @@ References:
 
 **Part 2: Glossary to include these terms in a bulleted list.**
 
-**Branch**
-**Clone**
-**Commit**
-**Fetch**
-**GIT**
-**Github**
-**Merge**
-**Merge Conflict**
-**Push**
-**Pull**
-**Remote**
-**Repository**
+**Branch** - Branches are essentially subfolders in which the changes made do not affect the work outside of the branch. 
+**Clone** - A locally stored copy of the repository, withing your personal computer. Git tracks the changes offline so no changes are lost!
+**Commit** - Saved changes to a file.
+**Fetch** - Copying changes from the repository to a branch without setting them in stone.
+**GIT** - A program that automatically tracks file changes and allows you to save them to the web via Github.
+**Github** - Github is a collaboration platform/Version Control System. 
+**Merge** - Applies changes done on one file to multiple branches via a "Pull Request."
+**Merge Conflict** -  Occurs when changes are made to the same line of code by multiple people.
+**Push** - Commmitting new changes to a Repository.
+**Pull** - "Copies" changes from one file onto another. 
+**Remote** - non-local version of a file such as those on Github.
+**Repository** - remote file folder that also contains the project's history.
